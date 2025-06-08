@@ -21,3 +21,5 @@ A fully interactive 3D simulation of our solar system built with [Three.js]. It 
 git clone https://github.com/Amanlatya/solar-system-threejs.git
 cd solar-system-threejs
 
+### Install Dependencies
+run this command on the terminal - npm install
